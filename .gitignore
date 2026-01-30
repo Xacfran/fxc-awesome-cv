@@ -1,1 +1,5 @@
 fonts/
+*.log
+*.out
+*.aux
+*.gz
